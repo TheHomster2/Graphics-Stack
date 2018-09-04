@@ -1,2 +1,2 @@
 # Graphics Stack
-Add to stack of functions to build my graphics
+Add to stack of features to build graphics engine
